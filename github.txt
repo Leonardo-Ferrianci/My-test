@@ -1,0 +1,20 @@
+git config --global user.name "Leo-Ferrianci"
+git config --global user.email "souza.ferrianci102@outlook.com"
+git init
+git remote add origin https://github.com/Leo-Ferrianci/my-test.git
+git pull origin master
+git add . (ou adicionar o caminho)
+git commit -m "teste 0.1"
+git push origin master
+
+
+
+git clone url
+git config user.name
+git config user.email
+clear (limpar)
+git config --global core.editor "seu editor" (C:\Users\souza\Desktop\Microsoft VS Code)
+mkdir (criar diretório)
+ls (listar)
+touch (criar arquivo)
+pwd 
